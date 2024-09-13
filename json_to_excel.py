@@ -5,6 +5,7 @@ import pandas as pd
 f=open("path/to/file")
 data=json.load(f)
 sep='_'
+f.close()
 
 
 output_vahan = {}
