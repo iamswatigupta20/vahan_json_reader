@@ -1,0 +1,11 @@
+This file contains code to convert json data to excel, Below mentioned all working:
+
+ 	1. first we have installed and impoted required libraries.
+	2.  Read json file from a path
+	3. Flat the json data and converted that into a dataframe
+	4. Write the data to excel.
+
+
+
+Libraries required to run the code:
+	1. pip install pandas
